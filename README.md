@@ -1,0 +1,1 @@
+O sistema gera um número aleatório de 0 a 100 e o usuário precisa acertar qual o número. O usuário tem 10 chances, caso o número esteja mais baixo ou mais alto, o sistema irá dizer.
